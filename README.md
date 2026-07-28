@@ -66,4 +66,5 @@ ROADMAP
 add hacs specific install instructions
 ```
 [Buy me a Labrador]
+
 (https://www.paypal.com/qrcodes/managed/3f7a84a4-212d-4f5a-8497-76da22778c55?utm_source=consapp_download)
