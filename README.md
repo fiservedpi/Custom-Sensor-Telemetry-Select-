@@ -65,8 +65,6 @@ Click edit again and you should now be able to use the Visual Editor
 ROADMAP
 add hacs specific install instructions
 ```
-
-
 ## Tip Jar
 
 <img
@@ -77,6 +75,8 @@ add hacs specific install instructions
   alt="PayPal tip jar QR code"
 />
 
-
+[Donate to the Galactic Federation](https://www.paypal.com/qrcodes/managed/3f7a84a4-212d-4f5a-8497-76da22778c55?utm_source=consapp_download)
 
 <br clear="left" />
+
+
