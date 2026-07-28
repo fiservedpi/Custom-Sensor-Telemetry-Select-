@@ -65,3 +65,7 @@ Click edit again and you should now be able to use the Visual Editor
 ROADMAP
 add hacs specific install instructions
 ```
+
+<img width="985" height="1004" alt="image" src="https://github.com/user-attachments/assets/a54a7c5d-8bf8-46a3-bc98-276e12ae1d0c" />
+
+https://py.pl/M80HatukF48GVhVNQjI8vg
