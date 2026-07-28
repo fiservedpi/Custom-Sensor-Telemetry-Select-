@@ -65,3 +65,19 @@ Click edit again and you should now be able to use the Visual Editor
 ROADMAP
 add hacs specific install instructions
 ```
+
+
+## Tip Jar
+
+<p align="center">
+  <a href="https://www.paypal.com/qrcodes/managed/3f7a84a4-212d-4f5a-8497-76da22778c55?utm_source=consapp_download" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-gen-media-assets.s3.amazonaws.com/gemini_images/4ae3d33a-67fe-474c-bb62-55a7b0ac9f5b.png?AWSAccessKeyId=ASIA2F3EMEYE6ENC6PNV&Signature=i%2FROF28Slh59MOxg%2Fjj7tj08o14%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEKD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIHQmw0Ck8HKKyFBHdfJ2giyF4W%2B%2BLxnBFMsDRLpZXnlLAiEA7MT7PqyCJvsxUs7kAECuSAEwK%2B4RgvtoU3f92B7jwa4q8wQIaRABGgw2OTk3NTMzMDk3MDUiDHrTjl2tQQywKi%2FZwCrQBJCEGXo9atJdds0FLaAffzNTe2Z7Wezb26SggQH2%2BPc5LKwkKINA2%2FvrLYluRrSWbtSclMrQhqiOP%2FiGeCCcUugz5dXx%2FUlefOf%2BbG6i0Y%2FVEnJvkZdBhkV4xIEZn5pyU75uvNd%2FS5deYnF29jhqj9B9BTUpPpON8vgwocFy6xUlRoCEsnqV3O4Ihii1l3bVR9N7ax10sqX6WzzNB%2BPmudea3E1KdMDTsz54ofm1I%2BqzXGyAfjPtqGumTy40BBoiGP43GaVJclapO2o%2Bb9TyQqJ5%2BhXJ42rqnIfUN1ImlgM5B9%2BDzWntibLojeP6eBXiEmr4QnQ%2BC4O%2B0Rl1cnCC%2BZxfUPacKCfCbmOOq2Dbt%2BC2pwYXPhNLmMi%2BkEgUIbuJzpkstV2kdEHoaW6ZE5vT2RopEaYghHvZJgeRzZven12Goby68vtUfZjezu4ATr8zNdyD0U7vFGdxws0j24VwdK3hSULHFA5enOvEimH8z%2FUYeBP7YULXW7wqlAt%2B59im8DjUCS2eu3m4QsPkO6BtiSW7sinpROSORgkf4TBkKVtorBjEgFqUQJAQ1hqDlA8POcP9vUOMC%2FwhXgFbAlq%2FSbqPf7oTPsJud35J2zKg7bgy4jJ%2FIU3K4QXE%2BV5yeQeQtD5XjlqvailY2PZLMpp%2BJxJbrtDrh19RRKdInRChb18%2BXLl1RHpP%2Ff1wLFyfgQz%2BFrnUSjxUNP7vEDXhUDq0U9ApDTW2ax1Diro0Sde%2BGM1xFSBy%2BTwrTakASrKYUFYOlNy89a0jMvQ5YYmwSqqWcAgw3Zmj0wY6mAFl0YhjkBp4%2FeKzH2spImweNiexe7XBZOvdImZJabaUct2G4%2FrGqvGL86iwJYlkAtHCQbTYn2QR%2BQcDKvNeWFjeKGRj52QQ0rxQ1%2BpTlDUcSDLnEhrIUnkM5CXeBsVkn1RUpcuc7hTkICQKfLwLNG1iIfrPNi1ekcPfaRl9I5biXB%2FRHMOnVQJg8iDhgib2FxZ8HnXMQAAchA%3D%3D&Expires=1785256624" alt="PayPal tip jar QR code" width="320" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.paypal.com/qrcodes/managed/3f7a84a4-212d-4f5a-8497-76da22778c55?utm_source=consapp_download" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Tip%20Jar-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="Tip me on PayPal" />
+  </a>
+</p>
+
