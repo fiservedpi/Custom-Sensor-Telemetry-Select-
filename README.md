@@ -22,3 +22,42 @@ How classification works It looks at:
 <img width="1290" height="2282" alt="image" src="https://github.com/user-attachments/assets/824ff2f6-d92d-4710-9525-7285a2ad9ec2" />
 <img width="1290" height="2492" alt="image" src="https://github.com/user-attachments/assets/2463f3a1-97c9-4c8a-97ba-e0edb1d4fa6c" />
 
+Quick Setup
+
+Download gpu-telemetry-helper-cardv1.js and copy it to the /www/ folder inside your ha config
+
+Add the resource to your ha front end (edit 3dots manage resources add resource 
+```
+URL: /www/gpu-telemetry-helper-cardv1.js
+TYPE: JavaScript module
+```
+
+REBOOT HA 
+
+Add a new manual card to your front end
+```
+type: custom:gpu-telemetry-helper-card
+title: Tower GPU Telemetry
+device_name: Nvidia GTX 1650
+base_entity_prefix: sensor.nvidia_geforce_gtx_1650_tower_gpu0_
+accent_color: "#ff8c42"
+sensor_picker: true
+history_hours: 6
+use_real_history: true
+show_sparklines: true
+compact: false
+group_by_type: true
+shared_scale: true
+show_range_controls: true
+mode_overrides_text: |
+  sensor.nvidia_geforce_gtx_1650_tower_gpu0_power_draw=line
+  sensor.nvidia_geforce_gtx_1650_tower_gpu0_encode_sessions=bar
+  encode_codec=status
+  gpu_utilisation=barline
+```
+Edit the sesnor.XXXXXX to whatever sensor you wish, click save. 
+Click edit again and you should now be able to use the Visual Editor 
+
+
+
+
