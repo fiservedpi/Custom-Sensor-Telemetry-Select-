@@ -57,7 +57,7 @@ mode_overrides_text: |
   encode_codec=status
   gpu_utilisation=barline
 ```
-Edit the base_entity_prefix whatever sensor you wish, click save. 
+Edit the base_entity_prefix to whatever sensor you wish, click save. 
 Click edit again and you should now be able to use the Visual Editor 
 
 
