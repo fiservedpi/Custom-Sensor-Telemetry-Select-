@@ -2,11 +2,11 @@
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/08f48be1-9fba-454f-bc12-47500d63e3e5" />
 
 Custom Telemetry Card for Home Assistant
-now supports a sensor picker and dynamically chooses the display style per sensor based on sensor metadata, units, names, and whether the value is numeric or text. That matches Home Assistant’s custom card model, where the frontend card can inspect entity state/attributes and render different UI based on what it finds.
+now supports a sensor picker and dynamically chooses the display style per sensor based on sensor metadata, units, names, and whether the value is numeric or text. That matches Home Assistant’s custom card model, where the frontend card can inspect entity state/attributes and render different UI based on what it finds!
 
 The card now:
 
-•	accepts either a  base_entity_prefix  or an explicit sensor list,
+•	accepts either a  ```base_entity_prefix```  or an ```explicit sensor list```
 
 •	shows a checkbox-based sensor picker in the card,
 
