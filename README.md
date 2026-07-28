@@ -61,5 +61,7 @@ Edit the sesnor.XXXXXX to whatever sensor you wish, click save.
 Click edit again and you should now be able to use the Visual Editor 
 
 
-
-
+```
+ROADMAP
+add hacs specific install instructions
+```
