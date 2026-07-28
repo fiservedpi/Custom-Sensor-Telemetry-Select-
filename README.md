@@ -1,4 +1,4 @@
-# Custom-Sensor-Telemetry-Select-
+# Custom-Sensor-Telemetry-Select
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/08f48be1-9fba-454f-bc12-47500d63e3e5" />
 
 Custom Telemetry Card for Home Assistant
