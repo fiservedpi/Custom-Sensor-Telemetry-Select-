@@ -68,6 +68,9 @@ add hacs specific install instructions
 Buy me a Labrador!!
 [https://www.paypal.com/qrcodes/managed/3f7a84a4-212d-4f5a-8497-76da22778c55?utm_source=consapp_download]
 
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/37c9c18b-1554-4014-b38b-c8664cb0038e" />
+
+
 
 
 
