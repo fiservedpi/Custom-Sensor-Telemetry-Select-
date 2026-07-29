@@ -28,7 +28,8 @@ Quick Setup
 
 Download gpu-telemetry-helper-cardv1.js and copy it to the /www/ folder inside your ha config
 
-Add the resource to your ha front end (edit 3dots manage resources add resource 
+Add the resource to your ha front end (Go to Settings → Dashboards → Resources
+Add /local/custom-sensor-telemetry-select.js as a JavaScript Module
 ```
 URL: /www/gpu-telemetry-helper-cardv1.js
 TYPE: JavaScript module
