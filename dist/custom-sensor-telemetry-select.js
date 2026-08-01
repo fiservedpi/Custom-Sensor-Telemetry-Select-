@@ -1,4 +1,4 @@
-class GpuTelemetryHelperCard extends HTMLElement {
+class CustomSensorTelemetrySelect extends HTMLElement {
   static getConfigForm() {
     const schema = [
       { name: 'title', selector: { text: {} } },
@@ -40,7 +40,7 @@ class GpuTelemetryHelperCard extends HTMLElement {
 
   static getStubConfig() {
     return {
-      type: 'custom:gpu-telemetry-helper-card',
+      type: 'custom:custom-sensor-telemetry-select',
       title: 'GPU Telemetry',
       base_entity_prefix: 'sensor.nvidia_geforce_gtx_1650_tower_gpu0_',
       device_name: 'Nvidia GPU',
@@ -123,7 +123,7 @@ class GpuTelemetryHelperCard extends HTMLElement {
     } else if (/watt|power draw|power limit|\b w\b/.test(hay) || unit === 'W') {
       kind = 'power';
     } else if (/vram|memory|\bmb\b|\bgb\b/.test(hay) || ['MB', 'GB', 'MiB', 'GiB'].includes(unit)) {
-      kind = /used|free|total/.test(hay) ? 'memory' : 'memory';
+      kind = 'memory';
     } else if (/clock|mhz|ghz|speed|rpm/.test(hay) || ['MHz', 'GHz', 'RPM'].includes(unit)) {
       kind = 'speed';
     } else if (/download|upload|throughput|bandwidth|mb\/s|kb\/s|gb\/s|b\/s/.test(hay) || /\/s$/.test(unit)) {
@@ -321,13 +321,12 @@ class GpuTelemetryHelperCard extends HTMLElement {
   }
 }
 
-customElements.define('gpu-telemetry-helper-card', GpuTelemetryHelperCard);
+customElements.define('custom-sensor-telemetry-select', CustomSensorTelemetrySelect);
 window.customCards = window.customCards || [];
 window.customCards.push({
-  type: 'gpu-telemetry-helper-card',
-  name: 'GPU Telemetry Helper Card',
-  description: 'Media-helper styled GPU telemetry card with grouped metrics and sparkline-style visuals.',
+  type: 'custom-sensor-telemetry-select',
+  name: 'Custom Sensor Telemetry Select',
+  description: 'Media-helper styled telemetry card with grouped metrics and sparkline-style visuals.',
   preview: true,
   configurable: true
 });
-
