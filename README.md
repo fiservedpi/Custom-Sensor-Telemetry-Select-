@@ -26,12 +26,12 @@ How classification works It looks at:
 
 Quick Setup
 
-Download gpu-telemetry-helper-cardv1.js and copy it to the /www/ folder inside your ha config
+  Download custom-sensor-telemetry-select.js and copy it to the /www/ folder inside your ha config
 
 Add the resource to your ha front end (Go to Settings → Dashboards → Resources
 Add /local/custom-sensor-telemetry-select.js as a JavaScript Module
 ```
-URL: /www/gpu-telemetry-helper-cardv1.js
+URL: /www/custom-sensor-telemetry-select.js
 TYPE: JavaScript module
 ```
 
@@ -39,7 +39,7 @@ REBOOT HA
 
 Add a new manual card to your front end
 ```
-type: custom:gpu-telemetry-helper-card
+type: custom:custom-sensor-telemetry-select
 title: Tower GPU Telemetry
 device_name: Nvidia GTX 1650
 base_entity_prefix: sensor.nvidia_geforce_gtx_1650_tower_gpu0_
