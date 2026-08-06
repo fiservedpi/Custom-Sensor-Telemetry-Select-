@@ -75,4 +75,4 @@ add hacs specific install instructions; once approved
 
 <br clear="left" />
 
-<img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/74674967-4fc1-4f86-9320-a78795ebbadd" />
+
