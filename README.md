@@ -75,4 +75,5 @@ add hacs specific install instructions; once approved
 
 <br clear="left" />
 
+![color](https://github.com/user-attachments/assets/7566a6fc-1d97-40b0-be62-b56ae18b1ffa)
 
