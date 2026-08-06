@@ -1,4 +1,4 @@
-<img width="480" height="392" alt="gif (1)" src="https://github.com/user-attachments/assets/2890ad84-35b9-4f6b-9340-e4f65dd565cb" />
+
 # Custom-Sensor-Telemetry-Select
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/08f48be1-9fba-454f-bc12-47500d63e3e5" />
 
@@ -77,6 +77,6 @@ add hacs specific install instructions; once approved
 <br clear="left" />
 
 
-
+<img width="480" height="392" alt="gif (1)" src="https://github.com/user-attachments/assets/2890ad84-35b9-4f6b-9340-e4f65dd565cb" />
 
 
