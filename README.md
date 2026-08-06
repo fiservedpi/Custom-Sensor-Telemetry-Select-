@@ -74,3 +74,5 @@ add hacs specific install instructions; once approved
 [Donate to the Galactic Federation](https://venmo.com/u/Fiservedpi32)
 
 <br clear="left" />
+
+<img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/74674967-4fc1-4f86-9320-a78795ebbadd" />
