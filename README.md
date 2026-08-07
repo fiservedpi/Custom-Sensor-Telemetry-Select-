@@ -76,11 +76,3 @@ add hacs specific install instructions; once approved
 
 <br clear="left" />
 
-
-
-
-https://github.com/user-attachments/assets/368c708c-3818-4d52-8280-940d0a7c8151
-
-
-
-
